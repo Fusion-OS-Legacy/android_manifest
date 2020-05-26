@@ -795,7 +795,7 @@
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
 
-  <!-- Add all PixelExperience repos -->
-  <include name="snippets/pixel.xml" />
+  <!-- Add all FusionOS repos -->
+  <include name="snippets/fusion.xml" />
 
 </manifest>
