@@ -93,6 +93,7 @@
   <project path="development" name="development" remote="pixel" />
   <project path="device/custom/sepolicy" name="android_device_custom_sepolicy" remote="fusion" />
   <project path="manifest" name="android_manifest" remote="fusion" />
+  <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="pixel" />
   <project path="platform_testing" name="platform_testing" remote="pixel" />
   <project path="vendor/aosp" name="android_vendor_aosp" remote="fusion" />
   <project path="vendor/pixelstyle" name="android_vendor_pixelstyle" remote="fusion" />
