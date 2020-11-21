@@ -166,8 +166,8 @@
   <project path="external/tinyalsa" name="external_tinyalsa" remote="pixel" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
   <project path="external/toybox" name="external_toybox" remote="pixel" />
-   <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="private" />
-  
+  <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="private" />
+
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="pixel" clone-depth="1" />
   <project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" remote="pixel" clone-depth="1" />
