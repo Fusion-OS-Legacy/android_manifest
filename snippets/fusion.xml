@@ -25,8 +25,11 @@
   <project path="bionic" name="android_bionic" remote="fusion"/>
   <project path="build/blueprint" name="android_build_blueprint" remote="fusion"/>
   <project path="frameworks/base" name="android_frameworks_base" remote="fusion"/>
+  <project path="frameworks/av" name="android_frameworks_av" remote="fusion" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="fusion" />
   <project path="system/core" name="android_system_core" remote="fusion"/>
   <project path="system/vold" name="android_system_vold" remote="fusion"/>  
+
   <!-- Vendor -->
   <project path="vendor/fuse" name="android_vendor_fuse" remote="fusion" />
 
