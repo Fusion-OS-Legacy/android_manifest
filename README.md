@@ -1,4 +1,4 @@
-# FusionOS
+![FusionOS](fusionbanner.jpg)
 
 ### Requirements
 - Around 200G disk space.
