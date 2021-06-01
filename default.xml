@@ -831,10 +831,9 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- Styx -->
+  <!-- Fusion -->
   <include name="snippets/remove.xml"/>
   <include name="snippets/fusion.xml"/>
-  <include name="snippets/lineage.xml"/>
-  <include name="snippets/pixel.xml"/>
+  <include name="snippets/additional.xml"/>
 
 </manifest>
