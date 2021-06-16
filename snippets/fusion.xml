@@ -65,5 +65,6 @@
 
   <!-- Vendor -->
   <project path="vendor/fuse" name="android_vendor_fuse" remote="fusion" />
+  <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" remote="fusion" />
 
 </manifest>
