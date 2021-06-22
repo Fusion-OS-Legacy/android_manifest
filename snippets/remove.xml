@@ -97,7 +97,6 @@
   <remove-project name="platform/frameworks/native"/>
 
   <!-- Hardware repos -->
-  <remove-project name="platform/hardware/libhardware_legacy" />
   <remove-project name="platform/hardware/ril" />
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/bootctrl" />
