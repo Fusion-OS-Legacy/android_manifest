@@ -120,5 +120,6 @@
   <remove-project name="platform/hardware/qcom/sdm845/thermal" />
   <remove-project name="platform/hardware/qcom/sdm845/vr" />
   <remove-project name="platform/hardware/knowles/athletico/sound_trigger_hal" />
-    
+  <remove-project name="platform/hardware/qcom/wlan" />
+  
 </manifest>
