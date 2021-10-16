@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- build -->
+  <remove-project name="platform/build" />
+  <remove-project name="platform/build/blueprint" />
+  <remove-project name="platform/build/soong" />
+
+  <!-- frameworks -->
+  <remove-project name="platform/frameworks/base" />
+
+</manifest>
